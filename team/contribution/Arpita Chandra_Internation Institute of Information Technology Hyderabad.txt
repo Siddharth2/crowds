@@ -1,0 +1,4 @@
+Arpita Chandra
+chandra.arpita@gmail.com
+LabRats
+To start, I reviewed the paper Dow2012, to explain how feedback and assesment can be used to improve crowd wisdom. As a team leader I tried to organize and distribute work as effectively as I could. I worked on the tasks 'name of the constellation','age of celebrity', 'name of the artist/band'. I collected the appropriate data, its organization and also helped in making the files. I reviewed the submissions to the best of my knowledge and capabilities and participated in team hangouts. I also helped with a few R coding assignments.

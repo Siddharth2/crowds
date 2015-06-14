@@ -1,0 +1,4 @@
+Aditya Singh
+aditya.91.singh@gmail.com
+LabRats
+Started out with reading the paper titled "The prediction of social and technological events", Kaplan, 1950, as part of the literature review. Proposed the topics for probable tasks. I prepared the questions and dataset for the task of "correctly arranging historical events in chronological order". Through the course of the project, reviewed submissions from other teams and also actively participated in the meetings.

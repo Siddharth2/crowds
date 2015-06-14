@@ -1,0 +1,4 @@
+Bharat Munshi
+bharatmunshi@gmail.com
+LabRats
+I started out with the literature review wherein I reviewed the paper Loni2014 which investigates how human input collected from a crowdsourcing platform can be used in order to validate, and thus improve user tags (across social media). I participated actively in team meetings and online hangouts to enhance my work towards the project. I suggested tasks and reviewed submissions. For the tasks I helped out with the task 'guess the order of historical events' and prepared the questions and files for the tasks, 'name the constellation', 'guessing the age of celebrity' and 'guess the artist/band when given a song'. I also worked on the R coding assignments to the best of my abilities.
