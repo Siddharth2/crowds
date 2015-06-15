@@ -1,5 +1,6 @@
 .start h1 {
     font-size: 1.1em;
+    line-height: 1.3em;
 }
 
 .start .main-bee img {
@@ -26,6 +27,7 @@
     }
     .start .main-bee img {
         padding-top: 20%;
+        padding-bottom: 10%;
     }
 }
 
