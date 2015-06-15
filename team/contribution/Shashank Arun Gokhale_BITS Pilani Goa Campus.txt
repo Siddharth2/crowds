@@ -1,0 +1,19 @@
+Shashank Gokhale
+
+
+sha.gokhale@gmail.com
+
+
+Team Segment
+
+
+I studied past literature on data 
+science which was very helpful in 
+giving an insight into the vast field.
+The team also worked on creating the 
+best possible universal set of
+Q&A's for the assigned question.
+During the process we extracted 
+the data by scraping and applied 
+the parameters to obtain the 
+required degree of randomness. 

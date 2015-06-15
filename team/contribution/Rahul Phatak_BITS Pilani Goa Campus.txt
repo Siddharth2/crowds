@@ -1,0 +1,7 @@
+Rahul Phatak
+
+rahul.hphatak@gmail.com
+
+BITSG Powerhouse
+
+I reviewed the paper 'Hierarchical Bayesian Nonparametric Approach to Modeling and Learning the Wisdom of Crowds of Urban Traffic Route Planning Agents'. I rated the various tasks gathered in the .tsv format. I was involved in checking the 2 tasks 'amazon_price' and 'country_population'. I also made the component images for the 'amazon_price' task.
